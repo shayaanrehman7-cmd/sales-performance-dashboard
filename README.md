@@ -1,5 +1,5 @@
 # sales-performance-dashboard
- Sales Performance Dashboard — Excel Portfolio Project
+Sales Performance Dashboard — Excel Portfolio Project.
 A dynamic, multi-sheet Excel dashboard analysing 500+ sales transactions across regions, products, and sales representatives over a full fiscal year. Built as part of an ongoing transition into Business and Data Analysis.
 
 Project Overview:
@@ -32,7 +32,7 @@ KPI card layout using merged cells and conditional colour coding
 Clean dashboard design with no gridlines for presentation-ready output
 
 
- Key Insights from the Data:
+Key Insights from the Data:
 
 Consulting generated the highest average revenue per unit at £2,500, making it the most valuable product line despite lower volume
 Conversion rates remained relatively stable across the year at approximately 25–35%, suggesting a consistent but improvable sales process
@@ -47,7 +47,7 @@ Data modelling and aggregation using native Excel functions
 No macros or VBA — fully formula-driven and portable
 
 
- Why I Built This
+Why I Built This:
 I have a background in Sales and Business Development, having worked across tech, training and recruitment sectors. I am currently pivoting into Business and Data Analysis and am actively building technical skills through:
 
  Data Analyst Bootcamp — freeCodeCamp (in progress)
